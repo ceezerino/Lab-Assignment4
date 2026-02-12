@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 70fa6836b19677349be389f4e13cb6eb
+  productGUID: ff04361d210040c4db8e63416296fb4c
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: DnD HP Calculator
+  productName: DnD HP Calculator 2.0
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -604,14 +604,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: DnD HP Calculator
+  metroPackageName: DnD HP Calculator 2.0
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: DnD HP Calculator
+  metroApplicationDescription: DnD HP Calculator 2.0
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -682,10 +682,10 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: 7d4bea53-e027-4a2b-880c-16a2043e2b8c
+  cloudProjectId: 4d8ce118-db06-4263-9e97-84a7ac3e3899
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: DnD HP Calculator
+  projectName: DnD HP Calculator 2.0
   organizationId: a_decent_hoonter
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

@@ -266,15 +266,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 519420028}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ccd4d920666ee5842827eb6b72366326, type: 3}
+  m_Script: {fileID: 11500000, guid: bf1e7c6ed6563944286f579ae000bca8, type: 3}
   m_Name: 
-  m_EditorClassIdentifier: Assembly-CSharp::HPCalc
+  m_EditorClassIdentifier: Assembly-CSharp::HPCalcTwo
   race: dwarf
   characterClass: barbarian
-  rollType: averaged
-  CharacterName: DingDong of Clan Bong
-  con: 23
-  level: 7
+  rollType: avg
+  CharacterName: Chungus Bungus the Fungus
+  con: 12
+  level: 3
   stout: 1
   tough: 1
 --- !u!1 &619394800
